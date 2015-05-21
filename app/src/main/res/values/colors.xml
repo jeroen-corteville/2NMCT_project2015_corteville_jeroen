@@ -1,0 +1,9 @@
+<resources>
+    <color name="background_purple">#FF8800</color>
+    <color name="light_gray">#bbbbbb</color>
+    <color name="apptheme_color">#FF9933</color>
+    <color name="light_purple_button">#FFD6AD</color>
+    <color name="pressed_purple_button">#FFA347</color>
+    <color name="focused_purple_button">#FFB870</color>
+    <color name="text_color">#331F0A</color>
+</resources>
